@@ -12776,9 +12776,6 @@ deta.dev
 
 // Dfinity Foundation: https://dfinity.org/
 // Submitted by Dfinity Team <domains@dfinity.org>
-caffeine.ai
-id.ai
-icp-api.io
 icp0.io
 *.raw.icp0.io
 icp1.io
@@ -13821,6 +13818,11 @@ ravendb.community
 development.run
 ravendb.run
 
+// HiDNS : https://www.hidoha.net
+// Submitted by ifeng <admin@hidoha.net>
+hidns.co
+hidns.vip
+
 // home.pl S.A. : https://home.pl
 // Submitted by Krzysztof Wolski <krzysztof.wolski@home.eu>
 homesklep.pl
@@ -13838,7 +13840,6 @@ hoplix.shop
 // HOSTBIP REGISTRY : https://www.hostbip.com/
 // Submitted by Atanunu Igbunuroghene <publicsuffixlist@hostbip.com>
 orx.biz
-biz.gl
 biz.ng
 co.biz.ng
 dl.biz.ng
