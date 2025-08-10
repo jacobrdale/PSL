@@ -851,6 +851,11 @@ net.co
 nom.co
 org.co
 
+// cool : https://www.iana.org/domains/root/db/cool.html
+// Submitted by Jacob Dale <snicks.phyla0y@icloud.com>
+cool
+is-not.cool
+
 // com : https://www.iana.org/domains/root/db/com.html
 com
 
@@ -5433,6 +5438,7 @@ avocat.pro
 bar.pro
 cpa.pro
 eng.pro
+is-truly-a.pro
 jur.pro
 law.pro
 med.pro
